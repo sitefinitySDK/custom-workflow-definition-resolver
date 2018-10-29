@@ -23,7 +23,7 @@ The example in this repository is a fully functional class derived from the stan
 	5. Otherwise uses the default workflow provided by the base class.
 
 ## Prerequisites
-* Sitefinity 8.0 or above
+* Sitefinity 8.0 - Sitefinity 11.0
 
 ## Build and install
 Add to your Global.asax:
