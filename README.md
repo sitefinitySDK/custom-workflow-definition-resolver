@@ -1,3 +1,6 @@
+**Note:** This sample is valid for Sitefinity CMS versions 8.x - 11.0. Sitefintiy CMS 11.1 introduces refactoring and improvements in teh workflow functionality, including 3-level review and approval workflow, as well as ability to specify different workflow definition per page, thus the below sample is no longer necessary, as the functionality comes out of the box. 
+For more information aboutcustomizing the WorkflowDefinitionResolver class in Sitefinity CMS 11.1 and above, refer to the product documentation here: https://www.progress.com/documentation/sitefinity-cms/tutorial-customize-workflow-notifications
+
 Custom workflow definitions in Sitefinity
 ==========================
 Sitefinity's workflow feature allows certain content to require reviewing by a privileged user before publishing. In most cases you should be able to configure everything you need via the admin interface. However, sometimes you may want to enforce more sophisticated rules for determining the way a certain item needs to be approved. For example (but not limited to) you may want pages under certain root category to be approved by one set of approvers, while the rest of the pages to be approved by the default approvers.
