@@ -1,6 +1,6 @@
 **Note:** This sample is valid for Sitefinity CMS versions 8.x - 11.0. Sitefintiy CMS 11.1 introduces refactoring and improvements in teh workflow functionality, including 3-level review and approval workflow, as well as ability to specify different workflow definition per page, thus the below sample is no longer necessary, as the functionality comes out of the box. 
 
-For more information about customizing the WorkflowDefinitionResolver class in Sitefinity CMS 11.1 and above, refer to the product documentation here: https://www.progress.com/documentation/sitefinity-cms/tutorial-customize-workflow-notifications
+For more information about customizing the WorkflowDefinitionResolver class in Sitefinity CMS 11.1 and above, refer to the product documentation here: https://www.progress.com/documentation/sitefinity-cms/tutorial-customize-workflow-definitions
 
 Custom workflow definitions in Sitefinity
 ==========================
